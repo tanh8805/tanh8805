@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer Intern | Java & Node.js</h3>
 
 <p align="center">
-  <i>I'm a Third-year Information Technology student at PTIT, ready to start working right away and hoping to learn how to build real-world systems with a team!</i>
+  <i>I'm a Third-year Information Technology student at PTIT!</i>
 </p>
 
 ---
