@@ -8,9 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Studying Information Technology at **Posts and Telecommunications Institute of Technology (PTIT)** (GPA: 3.43/4.0).
-- 💻 Most of my recent work involves building REST APIs and web projects using **Java Spring Boot** and **Node.js**.
-- 🚀 Currently looking for a **Back-end Developer Internship**.
+- 🎓 Studying Information Technology at **Posts and Telecommunications Institute of Technology (PTIT)** .
 - 📫 How to reach me: **bui058277@gmail.com** or **0332801818**
 
 ### 🛠️ Skill & Tech Stack
