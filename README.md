@@ -32,10 +32,10 @@
 
 <div align="center">
   <a href="https://github.com/tanh8805/Jira-Mini">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanh8805&repo=Jira-Mini&theme=radical" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=tanh8805&repo=Jira-Mini&theme=radical" />
   </a>
   <a href="https://github.com/tanh8805/Mini-Bank-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanh8805&repo=Mini-Bank-Project&theme=radical" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=tanh8805&repo=Mini-Bank-Project&theme=radical" />
   </a>
 </div>
 
@@ -45,6 +45,6 @@
 
 <div align="center">
   <a href="https://github.com/tanh8805">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanh8805&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.shion.dev/api?username=tanh8805&show_icons=true&theme=radical" />
   </a>
 </div>
